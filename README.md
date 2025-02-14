@@ -46,21 +46,8 @@ Vue.js : A progressive JavaScript framework that is flexible and can be used for
 
 Full Stack Development:
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 https://www.geeksforgeeks.org/web-development/
-
-main 2nd
-
-main 3rd
-
-main 4th
-experiment 1st
-
-experiment 2nd
-
-testing 1st
-
-testing 2nd
-
-geature 1st
-
-feature 2nd
